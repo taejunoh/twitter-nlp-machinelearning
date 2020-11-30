@@ -2,10 +2,6 @@
 
 **This project is in process**
 
-NLP
-Sentiment Analysis
-LDA
+NLP, Sentiment Analysis, LDA
 
-Python
-Twitter API
-Scikit-Learn
+Python, Twitter API, Scikit-Learn
