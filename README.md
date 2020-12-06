@@ -4,4 +4,5 @@
 
 NLP, Sentiment Analysis, LDA
 
-Python, Twitter API, Scikit-Learn
+Python, Twitter API, Scikit-Learn, TensorFlow
+
