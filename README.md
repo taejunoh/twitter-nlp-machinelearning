@@ -1,8 +1,17 @@
 # NLP-Sentiment-LDA
 
-**This project is in process**
+## Twitter - NLP Analysis of COVID-19
 
-NLP, Sentiment Analysis, LDA
+### Method
 
-Python, Twitter API, Scikit-Learn, TensorFlow
+1. Sentiment Analysis
+2. Topic Modeling: LDA
+
+### Machine Learning
+
+1. LSTM with TensorFlow
+2. CountVectorizer with Scikit-learn
+3. LDA with Gensim
+
+### Written in Python
 
