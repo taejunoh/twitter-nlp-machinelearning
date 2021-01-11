@@ -1,17 +1,15 @@
-# NLP-Sentiment-LDA
+# TWITTER COVID-19 ANALYSIS
 
-## Twitter - NLP Analysis of COVID-19
-
-### Method
+## Method
 
 1. Sentiment Analysis
 2. Topic Modeling: LDA
 
-### Machine Learning
+## Machine Learning
 
 1. LSTM with TensorFlow
 2. CountVectorizer with Scikit-learn
 3. LDA with Gensim
 
-### Written in Python
+## Written in Python
 
